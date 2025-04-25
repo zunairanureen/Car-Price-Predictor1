@@ -20,6 +20,7 @@ This is a comprehensive machine learning project focused on predicting the price
 9. [Conclusion](#conclusion)
 
 ---
+![AI Chatbot Screenshot](https://github.com/zunairanureen/Car-Price-Predictor1/blob/main/Capture.JPG?raw=true)
 
 ### 🧑‍🏫 Introduction
 
@@ -37,12 +38,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import warnings
 ```
-
-## 🖼️ Project Screenshot
-
-![AI Chatbot Screenshot](https://github.com/zunairanureen/Car-Price-Predictor1/blob/main/Capture.JPG?raw=true)
-
-
 
 ### 📂 Data Loading
 
