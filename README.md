@@ -38,7 +38,11 @@ import seaborn as sns
 import warnings
 ```
 
----
+## 🖼️ Project Screenshot
+
+![AI Chatbot Screenshot](https://github.com/zunairanureen/Car-Price-Predictor1/blob/main/Capture.JPG?raw=true)
+
+
 
 ### 📂 Data Loading
 
